@@ -32,7 +32,7 @@
 
 ### <img src="https://api.iconify.design/fluent-emoji:waving-hand.svg?height=26" height="26" valign="middle"/> About me
 
-Hi! I'm **Yehor**, a 19-year-old backend developer and a third-year  
+I'm **Yehor**, a 19-year-old backend developer and a third-year  
 **Software Development** student.
 
 I build backend applications with **NestJS**, **TypeScript**,  
